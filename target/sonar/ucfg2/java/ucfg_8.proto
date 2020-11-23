@@ -1,0 +1,16 @@
+
+Dorg.example.springbootweb.entity.Email#getSendTo()Ljava/lang/String;f
+\/Users/lmartinez/git/springbootweb/src/main/java/org/example/springbootweb/entity/Email.java& &("1*´
+1f
+\/Users/lmartinez/git/springbootweb/src/main/java/org/example/springbootweb/entity/Email.java' '(Á
+¾
+f
+\/Users/lmartinez/git/springbootweb/src/main/java/org/example/springbootweb/entity/Email.java' '(
+%0java.lang.String"__id*6*4(
+&org.example.springbootweb.entity.Email"
+sendTo"‚
+f
+\/Users/lmartinez/git/springbootweb/src/main/java/org/example/springbootweb/entity/Email.java' '(
+
+%0java.lang.StringB*(
+&org.example.springbootweb.entity.Email

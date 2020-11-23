@@ -1,0 +1,7 @@
+organization=lmartinez63
+projectKey=lmartinez63_springbootweb
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.14706
+dashboardUrl=https://sonarcloud.io/dashboard?id=lmartinez63_springbootweb
+ceTaskId=AXXylvMpEd6tlxP5Q-7n
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXXylvMpEd6tlxP5Q-7n
